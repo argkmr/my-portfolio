@@ -32,7 +32,7 @@ const Hero = () => {
       <a href="#about"><EarthCanvas/></a>
 
       <div className="absolute xs:bottom-[18px]
-        w-full flex justify-center items-center">
+        w-full flex justify-center items-center"s>
           <a href="#about">
             <div className="w-[32px] h-[54px]
               rounded-3xl border-4 border-secondary flex justify-center
