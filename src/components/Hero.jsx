@@ -29,7 +29,7 @@ const Hero = () => {
       </div>
 
       {/* <ComputersCanvas/> */}
-      <EarthCanvas/>
+      <a href="#about"><EarthCanvas/></a>
 
       <div className="absolute xs:bottom-[18px]
         w-full flex justify-center items-center">
