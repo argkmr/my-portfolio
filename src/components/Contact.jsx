@@ -129,7 +129,7 @@ const Contact = () => {
         className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
       >
         {/* <EarthCanvas/> */}
-        <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="image" className="mt-[180px] rounded-[50px]"/>
+        <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="image" className="sm:mt-[180px] sm:rounded-[50px]"/>
 
       </motion.div>
     </div>
